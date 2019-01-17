@@ -78,7 +78,7 @@ struct CarEvent @0x9b1657f34caf3ad3 {
   }
 }
 
-#test
+#test2
 
 # ******* main car state @ 100hz *******
 # all speeds in m/s
